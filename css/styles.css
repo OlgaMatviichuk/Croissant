@@ -1,6 +1,17 @@
 body {
   background-color: bisque;
-}
-h1 {
   text-align: center;
+}
+.links {
+  display: flex;
+  justify-content: center;
+}
+.contact-link {
+  padding: 5px 10px;
+}
+.photo-link {
+  padding: 5px 10px;
+}
+.homepage-link {
+  padding: 5px 10px;
 }
